@@ -166,10 +166,9 @@ h2{
   font-style: italic;
   color: #39471b;
   text-align: left;
-  padding-bottom:10px;
+  padding-bottom:40px;
+  padding-top:20px;
   margin:0;
-  padding-top:150px;
-  padding-bottom:50px;
 
 }
 
@@ -230,6 +229,9 @@ a:hover{
   h2{
     font-size:40pt;
     font-weight:400;
+    padding-bottom:50px;
+    padding-top:30px;
+
 
   }
 
